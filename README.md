@@ -1,4 +1,12 @@
 # FunPay Extension 💎
+   _____             __      __  _____    _____   _    _   __    ___  
+  / ____|     /\     \ \    / / |_   _|  / ____| | |  | | /_ |  / _ \ 
+ | (___      /  \     \ \  / /    | |   | |      | |__| |  | | | (_) |
+  \___ \    / /\ \     \ \/ /     | |   | |      |  __  |  | |  > _ < 
+  ____) |  / ____ \     \  /     _| |_  | |____  | |  | |  | | | (_) |
+ |_____/  /_/    \_\     \/     |_____|  \_____| |_|  |_|  |_|  \___/ 
+                                                                      
+                                                                      
 
 [![Скачать расширение из Chrome Web Store](https://img.shields.io/badge/Скачать%20из-Chrome%20Web%20Store-blue)](https://chromewebstore.google.com/detail/funpay-extension/ecccjfpmhpnahbldabbhdccohmnidmkc?hl=ru&utm_source=ext_sidebar)
 
